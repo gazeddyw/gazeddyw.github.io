@@ -1,0 +1,10 @@
+# theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
+
+title: gazeddyw's blog
+description: This is where I share stuff
+author: gazeddyw
